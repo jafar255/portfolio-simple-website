@@ -18,5 +18,5 @@ It includes sections like **Home**, **About Me**, **Projects**, and **Contact**,
 
 ## Live Demo
 
-[View Website] [link]
+[View Website] [link ;https://jafar255.github.io/portfolio-simple-website/]
 
